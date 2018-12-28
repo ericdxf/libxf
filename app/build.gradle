@@ -1,9 +1,10 @@
-apply plugin: 'com.android.application'
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.common.dxf.libxf"
+//        applicationId "com.common.dxf.libxf"
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
